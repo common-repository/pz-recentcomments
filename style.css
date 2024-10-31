@@ -1,0 +1,77 @@
+/* [Pz-RCm][1.0.1] CSS */
+.pz-rcs-user {
+    display: block;
+    height: 40px;
+}
+.pz-rcs-author {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.pz-rcs-avatar {
+    border: 0;
+    margin: 0 8px;
+    height: 40px;
+    width: 40px;
+    float: left;
+}
+.pz-rcs-avatar img{
+    max-height: 40px;
+    max-width: 40px;
+}
+
+.pz-rcs-author {
+    margin-left: 48px;
+    display: block;
+    overflow: hidden;
+    font-size: 16px;
+    line-height: 26px;
+}
+.pz-rcs-date {
+    margin-left: 48px;
+    display: block;
+    overflow: hidden;
+    font-size: 8px;
+    line-height: 10px;
+}
+.pz-rcs-content-link {
+    clear: both;
+    position: relative;
+}
+.pz-rcs-content-link a {
+    text-decoration: none;
+    color: #444;
+}
+.pz-rcs-content {
+    position: relative;
+    margin-top: 8px;
+    margin-left: 8px;
+    padding: 6px;
+    border: 1px solid #888;
+    text-decoration: none;
+    overflow: hidden;
+    font-size: 12px;
+    line-height: 18px;
+    display: block;
+    background-color: #fff;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+}
+.pz-rcs-content-link:before {
+    content: '';
+    position: absolute;
+    border-bottom: 14px solid #888;
+    border-left: 5px solid transparent;
+    border-right: 10px solid transparent;
+    top: 2px;
+    left: 16px;
+}
+.pz-rcs-title {
+    margin: 4px 0 8px 12px;
+    display: block;
+    overflow: hidden;
+    font-size: 10px;
+    line-height: 12px;
+}

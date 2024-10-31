@@ -1,0 +1,763 @@
+# Copyright (C) 2013 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pz-RecentComments\n"
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2017-01-21 10:23+0900\n"
+"PO-Revision-Date: 2017-01-21 10:24+0900\n"
+"Last-Translator: \n"
+"Language-Team: poporon\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../pz-recentcomments.php:17
+msgid "Pz Recent Comments"
+msgstr "Pz 最近のコメント"
+
+#: ../pz-recentcomments.php:17
+msgid "Recent comments widget."
+msgstr "最近のコメントを表示するウィジェットです。"
+
+#: ../pz-recentcomments.php:34
+msgid "Recent Comments"
+msgstr "最近のコメント"
+
+#: ../pz-recentcomments.php:115
+msgid "Title:"
+msgstr "タイトル:"
+
+#: ../pz-recentcomments.php:118
+msgid "Number of comments to show:"
+msgstr "表示するコメント数:"
+
+#: ../pz-recentcomments.php:121
+msgid "Your balloon color"
+msgstr "あなたの吹き出しの色"
+
+#: ../pz-recentcomments.php:121 ../pz-recentcomments.php:124
+msgid "color code"
+msgstr "カラーコード値"
+
+#: ../pz-recentcomments.php:124
+msgid "Guest balloon color"
+msgstr "ゲストの吹き出しの色"
+
+#~ msgid "LinkCard cache manager"
+#~ msgstr "リンクカード／DBキャッシュ管理"
+
+#~ msgid "Updated cache"
+#~ msgstr "キャッシュを更新しました"
+
+#~ msgid "Update failed"
+#~ msgstr "キャッシュの更新に失敗しました"
+
+#~ msgid "Social count renew"
+#~ msgstr "ソーシャルカウントの再取得"
+
+#~ msgid "completed"
+#~ msgstr "完了しました"
+
+#~ msgid "Cache renew"
+#~ msgstr "記事内容の再取得"
+
+#~ msgid "Cache deleted"
+#~ msgstr "キャッシュから削除しました"
+
+#~ msgid "All"
+#~ msgstr "すべて"
+
+#~ msgid "Internal"
+#~ msgstr "内部リンク"
+
+#~ msgid "External"
+#~ msgstr "外部リンク"
+
+#~ msgid "Select batch"
+#~ msgstr "一括処理を選択"
+
+#~ msgid "Select"
+#~ msgstr "選択してください"
+
+#~ msgid "Renew cache"
+#~ msgstr "記事内容を再取得する"
+
+#~ msgid "Renew SNS count"
+#~ msgstr "ソーシャルカウントを再取得する"
+
+#~ msgid "Delete from cache"
+#~ msgstr "キャッシュから削除する"
+
+#~ msgid "Submit"
+#~ msgstr "適用"
+
+#~ msgid "Select domain"
+#~ msgstr "ドメインを選択"
+
+#~ msgid "All domain"
+#~ msgstr "すべてのドメイン"
+
+#~ msgid "Refine search"
+#~ msgstr "絞り込み検索"
+
+#~ msgid "items"
+#~ msgstr "項目"
+
+#~ msgid "Select all"
+#~ msgstr "すべて選択"
+
+#~ msgid "URL key"
+#~ msgstr "URLキー"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Excerpt"
+#~ msgstr "抜粋文"
+
+#~ msgid "Charset"
+#~ msgstr "文字ｾｯﾄ"
+
+#~ msgid "Domain"
+#~ msgstr "ドメイン"
+
+#~ msgid "Regist"
+#~ msgstr "登録日時"
+
+#~ msgid "Post ID"
+#~ msgstr "記事ID"
+
+#~ msgid "Result code"
+#~ msgstr "結果ｺｰﾄﾞ"
+
+#~ msgid "edit"
+#~ msgstr "編集"
+
+#~ msgid "Are you sure?"
+#~ msgstr "実行します。"
+
+#~ msgid "renew"
+#~ msgstr "再取得"
+
+#~ msgid "delete"
+#~ msgstr "削除"
+
+#~ msgid "Site name"
+#~ msgstr "サイト名称"
+
+#~ msgid "->"
+#~ msgstr "→"
+
+#~ msgid "Thumbnail URL"
+#~ msgstr "サムネイルURL"
+
+#~ msgid "Favicon URL"
+#~ msgstr "ファビコンURL"
+
+#~ msgid "Uptime"
+#~ msgstr "更新日時"
+
+#~ msgid "Next update"
+#~ msgstr "次回更新日時"
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "LinkCard Settings"
+#~ msgstr "リンクカード設定"
+
+#~ msgid "Short code is not set."
+#~ msgstr "ショートコードが指定されていません。"
+
+#~ msgid "Changes saved."
+#~ msgstr "設定を保存しました。"
+
+#~ msgid "Not changed."
+#~ msgstr "設定は変更されませんでした。"
+
+#~ msgid "Basic"
+#~ msgstr "基本設定"
+
+#~ msgid "ShortCode1"
+#~ msgstr "ショートコード 1"
+
+#~ msgid "Case-sensitive"
+#~ msgstr "大文字と小文字を区別します"
+
+#~ msgid "Use inlinetext"
+#~ msgstr "ショートコードで囲んだ文字列"
+
+#~ msgid "No use"
+#~ msgstr "使用しない"
+
+#~ msgid "Use to excerpt"
+#~ msgstr "抜粋文として使用"
+
+#~ msgid "Use to title"
+#~ msgstr "タイトルとして使用"
+
+#~ msgid "This setting applies only to the Shortcode1"
+#~ msgstr "ショートコード1にのみ適用されます"
+
+#~ msgid "ShortCode 2"
+#~ msgstr "ショートコード 2"
+
+#~ msgid "ShortCode 3"
+#~ msgstr "ショートコード 3"
+
+#~ msgid "ShortCode 4"
+#~ msgstr "ショートコード 4"
+
+#~ msgid "Special Format"
+#~ msgstr "定型書式"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Pz-LkC Default"
+#~ msgstr "Pz リンクカード 標準書式"
+
+#~ msgid "Cellophane tape \"center\""
+#~ msgstr "セロハンテープ（中央）"
+
+#~ msgid "Cellophane tape \"Top corner\""
+#~ msgstr "セロハンテープ（左上と右上）"
+
+#~ msgid "Cellophane tape \"long\""
+#~ msgstr "セロハンテープ（長め）"
+
+#~ msgid "Slanting"
+#~ msgstr "斜め"
+
+#~ msgid "3D Rotate"
+#~ msgstr "3D回転"
+
+#~ msgid "Curling paper"
+#~ msgstr "紙がめくれた効果（テーマとの相性があります）"
+
+#~ msgid "Taping and curling"
+#~ msgstr "テープと紙めくれ（テーマとの相性があります）"
+
+#~ msgid "Neutral"
+#~ msgstr "ブルーグリーン（黒背景推奨）"
+
+#~ msgid "Orange"
+#~ msgstr "オレンジ（黒背景推奨）"
+
+#~ msgid "Green"
+#~ msgstr "グリーン（黒背景推奨）"
+
+#~ msgid "Blue"
+#~ msgstr "ブルー（黒背景推奨）"
+
+#~ msgid "Will some of the parameters are forcibly changed"
+#~ msgstr "選択した定型書式によって、一部の設定が無効になります。"
+
+#~ msgid "Style"
+#~ msgstr "表示設定"
+
+#~ msgid "Position"
+#~ msgstr "配置設定"
+
+#~ msgid "Margin top"
+#~ msgstr "上の余白"
+
+#~ msgid "Not defined"
+#~ msgstr "設定しない"
+
+#~ msgid "Margin left"
+#~ msgstr "左の余白"
+
+#~ msgid "Margin right"
+#~ msgstr "右の余白"
+
+#~ msgid "Width"
+#~ msgstr "カードの横幅"
+
+#~ msgid "Height"
+#~ msgstr "カードの高さ"
+
+#~ msgid "Margin bottom"
+#~ msgstr "下の余白"
+
+#~ msgid "Centering"
+#~ msgstr "中央に寄せる"
+
+#~ msgid "Link the whole"
+#~ msgstr "カード全体をリンク"
+
+#~ msgid "Enclose the entire card at anchor"
+#~ msgstr ""
+#~ "カード全体をAタグで囲って、どこをクリックしてもリンク先を開くようにしま"
+#~ "す。"
+
+#~ msgid "Border"
+#~ msgstr "枠線の太さ"
+
+#~ msgid "Gray thin"
+#~ msgstr "薄い色／細い(1px)"
+
+#~ msgid "Gray"
+#~ msgstr "薄い色／普通(2px)"
+
+#~ msgid "Gray thick"
+#~ msgstr "薄い色／太い(4px)"
+
+#~ msgid "Black thin"
+#~ msgstr "黒／細い(1px)"
+
+#~ msgid "Black"
+#~ msgstr "黒／普通(2px)"
+
+#~ msgid "Black thick"
+#~ msgstr "黒／太い(4px)"
+
+#~ msgid "Black frame"
+#~ msgstr "黒／額縁(8px)"
+
+#~ msgid "Dodgerblue"
+#~ msgstr "ドジャー・ブルー（明るい青）"
+
+#~ msgid "Mediumaquamarine"
+#~ msgstr "ミディアム・アクアマリーン（明るい緑）"
+
+#~ msgid "Hotpink"
+#~ msgstr "ホット・ピンク（明るい赤）"
+
+#~ msgid "Wheat"
+#~ msgstr "小麦色（明るい茶色）"
+
+#~ msgid "Double"
+#~ msgstr "二重線"
+
+#~ msgid "Dotted"
+#~ msgstr "点線"
+
+#~ msgid "Layout"
+#~ msgstr "外観設定"
+
+#~ msgid "Radius"
+#~ msgstr "角を丸める"
+
+#~ msgid "Site information"
+#~ msgstr "サイト情報"
+
+#~ msgid "Top"
+#~ msgstr "上側"
+
+#~ msgid "Bottom"
+#~ msgstr "下側"
+
+#~ msgid "Use SiteName"
+#~ msgstr "サイト名称を使用"
+
+#~ msgid "Separator line"
+#~ msgstr "区切り線"
+
+#~ msgid "Display URL"
+#~ msgstr "リンク先のURLを表示する"
+
+#~ msgid "Thumbnail"
+#~ msgstr "サムネイル"
+
+#~ msgid "Right"
+#~ msgstr "右側"
+
+#~ msgid "Left"
+#~ msgstr "左側"
+
+#~ msgid "Shadow"
+#~ msgstr "影を付ける"
+
+#~ msgid "Resize"
+#~ msgstr "幅に合わせて縮小"
+
+#~ msgid "Hollow content area"
+#~ msgstr "記事の情報に枠を付ける"
+
+#~ msgid "Display excerpt"
+#~ msgstr "抜粋文を表示する"
+
+#~ msgid "Hollow"
+#~ msgstr "内側に影を付ける"
+
+#~ msgid "Display SNS Count"
+#~ msgstr "シェア数を表示する"
+
+#~ msgid "After Title"
+#~ msgstr "タイトルの後ろ"
+
+#~ msgid "After site-name"
+#~ msgstr "サイト情報の後ろ"
+
+#~ msgid "Twitter"
+#~ msgstr "ツイッター"
+
+#~ msgid "Facebook"
+#~ msgstr "フェイスブック（シェア数）"
+
+#~ msgid "Hatena"
+#~ msgstr "はてなブックマーク"
+
+#~ msgid ""
+#~ "There is a possibility that the screen display is slow If you enable this "
+#~ "setting."
+#~ msgstr "有効にする取得APIによっては表示が遅くなる場合があります。"
+
+#~ msgid "Letters"
+#~ msgstr "文字設定"
+
+#~ msgid "Site-info."
+#~ msgstr "サイト情報"
+
+#~ msgid "Color"
+#~ msgstr "色"
+
+#~ msgid "Size"
+#~ msgstr "大きさ"
+
+#~ msgid "Length"
+#~ msgstr "桁数"
+
+#~ msgid "Outline"
+#~ msgstr "縁取り"
+
+#~ msgid "Plugin link"
+#~ msgstr "プラグインのページ"
+
+#~ msgid "Plugin-link"
+#~ msgstr "プラグイン名"
+
+#~ msgid "External link"
+#~ msgstr "外部リンク"
+
+#~ msgid "Background image"
+#~ msgstr "背景画像"
+
+#~ msgid "Direct"
+#~ msgstr "直接取得する"
+
+#~ msgid "Use WebAPI"
+#~ msgstr "WebAPIを利用する"
+
+#~ msgid "Use WebAPI ,If can not direct"
+#~ msgstr "直接取得できない場合、WebAPIを利用する"
+
+#~ msgid "Favicon"
+#~ msgstr "サイトアイコン"
+
+#~ msgid "Open new window/tab"
+#~ msgstr "新しいウィンドウで開く"
+
+#~ msgid "All client"
+#~ msgstr "すべての端末"
+
+#~ msgid "Other than mobile"
+#~ msgstr "モバイル端末以外"
+
+#~ msgid "Internal link"
+#~ msgstr "内部リンク"
+
+#~ msgid "Background Image"
+#~ msgstr "背景画像"
+
+#~ msgid "Get contents"
+#~ msgstr "記事取得方法"
+
+#~ msgid "Always get the latest from the content"
+#~ msgstr "常に最新の記事内容から抜粋文を作成する"
+
+#~ msgid "Always get the latest from the excerpt"
+#~ msgstr "抜粋文が設定されている投稿はそちらを優先する"
+
+#~ msgid "Initially acquired only from the content"
+#~ msgstr "カード管理画面に記録されている内容から表示する"
+
+#~ msgid "Same-page link"
+#~ msgstr "同ページへのリンク"
+
+#~ msgid "It is common with setting Internal-link"
+#~ msgstr "内部リンク用の設定が使用されます"
+
+#~ msgid "Web-API"
+#~ msgstr "画像取得APIの指定"
+
+#~ msgid "Favicon API"
+#~ msgstr "ファビコンの取得API"
+
+#~ msgid ""
+#~ "%DOMAIN% replace to domain name (ex. poporon.poponet.jp )<br>%DOMAIN_URL% "
+#~ "replace to domain URL (ex. http://poporon.poponet.jp )"
+#~ msgstr ""
+#~ "%DOMAIN% と記述するとドメイン名（例．poporon.poponet.jp）に、<br />"
+#~ "%DOMAIN_URL% と記述するとドメインのURL（例．http://poporon.poponet.jp）に"
+#~ "置き換わります。"
+
+#~ msgid "Thumbnail API"
+#~ msgstr "サムネイル画像の取得API"
+
+#~ msgid "%URL% replace to URL"
+#~ msgstr "%URL% と記述するとURLに置き換わります"
+
+#~ msgid "Debug"
+#~ msgstr "詳しい人用（Debug）"
+
+#~ msgid "Trailing slash"
+#~ msgstr "末尾のスラッシュ"
+
+#~ msgid "In the case of domain names, to ignore the trailing-slash."
+#~ msgstr "ドメイン名のみのときに最後のスラッシュを除外する"
+
+#~ msgid "Use blockquote tag"
+#~ msgstr "BLOCKQUOTEをタグを使用する"
+
+#~ msgid "without using DIV tag, and use BLOCKQUOTE tag"
+#~ msgstr "&lt;BLOCKQUOTE&gt;で囲んで引用扱いにします"
+
+#~ msgid "Set nofollow"
+#~ msgstr "nofollowを付与する"
+
+#~ msgid "In the case of an external site, it puts the \"nofollow\""
+#~ msgstr "外部リンクのリンクを nofollow にする"
+
+#~ msgid "Reset img style"
+#~ msgstr "CSSリセット（img）"
+
+#~ msgid ""
+#~ "When unnecessary frame is displayed on the image, you can improve it by "
+#~ "case"
+#~ msgstr "画像がずれて表示されるときに改善される可能性が有ります（推奨）"
+
+#~ msgid "specified CSS"
+#~ msgstr "指定したCSSを使用"
+
+#~ msgid "Use specified CSS file"
+#~ msgstr "指定したCSSファイルを使用する"
+
+#~ msgid "CSS file"
+#~ msgstr "CSSファイル名"
+
+#~ msgid "(ex. http://exsample.com/style.css )"
+#~ msgstr "例．http://exsample.com/style.css"
+
+#~ msgid "CSS URL"
+#~ msgstr "CSSファイルのURL"
+
+#~ msgid "Class ID to be added(for PC)"
+#~ msgstr "PCのときに追加するクラス名"
+
+#~ msgid "Class ID to be added(for Mobile)"
+#~ msgstr "モバイルのときに追加するクラス名"
+
+#~ msgid "Use HatenaBlogCard"
+#~ msgstr "はてなブログカードを利用する"
+
+#~ msgid "External links will use Always HatenaBlogCard."
+#~ msgstr "外部リンクは「はてなブログカード」を利用する"
+
+#~ msgid "(Not recommended)"
+#~ msgstr "（非推奨）"
+
+#~ msgid "SSL verification disabled"
+#~ msgstr "SSL検証を無効"
+
+#~ msgid "Try setting if the contents of the SSL site can not be acquired."
+#~ msgstr ""
+#~ "SSLサイトのタイトルや記事内容が取得できない場合に設定することで取得できる"
+#~ "可能性があります。"
+
+#~ msgid "Broken link checker"
+#~ msgstr "リンク切れチェック"
+
+#~ msgid "Alive confirmation of the link destination."
+#~ msgstr "リンク先がアクセスできるか定期的に確認します。"
+
+#~ msgid "Display link to author page"
+#~ msgstr "プラグイン名を表示する"
+
+#~ msgid "Plugin URL"
+#~ msgstr "プラグインページURL"
+
+#~ msgid "Plugin name"
+#~ msgstr "プラグイン名"
+
+#~ msgid "Plugin version"
+#~ msgstr "プラグインバージョン"
+
+#~ msgid "Saved datetime"
+#~ msgstr "保存した日時"
+
+#~ msgid "Display elapsed time"
+#~ msgstr "実行時間の表示"
+
+#~ msgid "Output the elapsed time to HTML comment."
+#~ msgstr "作成にかかった時間をコメントとしてHTMLへ出力する"
+
+#~ msgid "Initialize"
+#~ msgstr "初期化"
+
+#~ msgid "Return to the initial setting"
+#~ msgstr "設定を初期状態へ戻す"
+
+#~ msgid "Style sheet saved."
+#~ msgstr "設定を元にスタイルシートを自動生成しました。"
+
+#~ msgid "Style sheet failed."
+#~ msgstr "スタイルシートの自動生成に失敗しました。"
+
+#~ msgid "Pz LkC Cache"
+#~ msgstr "Pz カード管理"
+
+#~ msgid "Pz LinkCard"
+#~ msgstr "Pz カード設定"
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgid "Manage"
+#~ msgstr "管理"
+
+#~ msgid "Direct & Use WebAPI"
+#~ msgstr "直接取得できない場合、WebAPI利用"
+
+#~ msgid "It was no longer able to tweet the number of acquisition of Twitter."
+#~ msgstr ""
+#~ "取得APIの提供終了に伴い、ツイッターのツイート数は更新されなくなりました。"
+#~ "<br>最後に取得したカウントを表示することは出来ますが変動しなくなるため、ツ"
+#~ "イッターのシェア数表示のチェックを外すことを推奨します。"
+
+#~ msgid "Trim"
+#~ msgstr "文字数"
+
+#, fuzzy
+#~ msgid "New window/tab"
+#~ msgstr "新しいウィンドウで開く"
+
+#~ msgid "Instructed to get the number again"
+#~ msgstr "ソーシャルカウントの再取得を指示しました"
+
+#~ msgid "Site icon"
+#~ msgstr "サイトアイコン"
+
+#~ msgid "Sorry. This feature is not implemented yet..."
+#~ msgstr "もうしわけありません。この機能は未実装です。"
+
+#~ msgid "distinguish between uppercase and lowercase letters"
+#~ msgstr "大文字と小文字は区別されます"
+
+#~ msgid "This page"
+#~ msgstr "同ページへのリンク"
+
+#~ msgid "Refresh"
+#~ msgstr "再取得"
+
+#~ msgid "This setting is not valid for \" Hatena-Blogcard\""
+#~ msgstr "※この設定は「はてなブログカード」に対して影響しません。"
+
+#~ msgid "Use SNS Count Cache"
+#~ msgstr "プラグインを利用して取得"
+
+#~ msgid "HatenaBlogCard"
+#~ msgstr "Pz ブログカード"
+
+#~ msgid "Color of title"
+#~ msgstr "タイトルの文字色"
+
+#~ msgid "Color of URL"
+#~ msgstr "URLの文字色"
+
+#~ msgid "Color of excerpt"
+#~ msgstr "抜粋文の文字色"
+
+#~ msgid "Background Image URL"
+#~ msgstr "背景画像"
+
+#~ msgid "none"
+#~ msgstr "なし"
+
+#~ msgid "Cellophane tape 2"
+#~ msgstr "セロハンテープ（左上、右上）"
+
+#~ msgid "Cellophane tape 3"
+#~ msgstr "セロハンテープ（長）"
+
+#~ msgid "gray"
+#~ msgstr "薄い色／普通(2px)"
+
+#~ msgid "Display information"
+#~ msgstr "サイト情報を表示する"
+
+#~ msgid "Top margin"
+#~ msgstr "上の余白"
+
+#~ msgid "Automatically adjust the margins"
+#~ msgstr "カードの左右に余白を設けて中央に寄せる"
+
+#~ msgid "Thumbnail position"
+#~ msgstr "サムネイルの位置"
+
+#~ msgid "elapsed time:"
+#~ msgstr "実行時間:"
+
+#~ msgid "seconds"
+#~ msgstr "秒"
+
+#~ msgid "sec"
+#~ msgstr "秒"
+
+#~ msgid "Display elapsed time required to create"
+#~ msgstr "作成にかかった時間を表示する"
+
+#, fuzzy
+#~ msgid "(This Site)"
+#~ msgstr "（このサイト内）"
+
+#, fuzzy
+#~ msgid "(This Page)"
+#~ msgstr "（このページ）"
+
+#~ msgid " (My Site)"
+#~ msgstr "（このサイト内）"
+
+#~ msgid "Reset CSS for img"
+#~ msgstr ""
+#~ "サムネイル画像やファビコンがずれて表示される場合にチェックを付けてみてくだ"
+#~ "さい"
+
+#~ msgid "Common"
+#~ msgstr "共通"
+
+#~ msgid "Shadow (thumbnail)"
+#~ msgstr "サムネイル画像に影を付ける"
+
+#~ msgid "2px"
+#~ msgstr "2 ピクセル（普通）"
+
+#~ msgid "3px"
+#~ msgstr "3 ピクセル（やや太め）"
+
+#~ msgid "6px"
+#~ msgstr "6 ピクセル（極太）"
+
+#~ msgid "Display thumbnail"
+#~ msgstr "サムネイル画像"
+
+#~ msgid "(Unimplemented)"
+#~ msgstr "（未実装）※設定は反映されません。"
+
+#~ msgid "After the invalidation of the plug-in , please activate again"
+#~ msgstr "→プラグインの無効化を行った後、再度有効化してください"
+
+#~ msgid "(External site)"
+#~ msgstr "（外部リンク）"
